@@ -1568,6 +1568,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-rSLlXQdINq {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rSLlXQdINq .title {
+  margin-bottom: 2rem;
+}
+.cid-rSLlXQdINq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSLlXQdINq a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rSLlXQdINq a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rSLlXQdINq textarea.form-control {
+  min-height: 188px;
+}
 .cid-rSGk1LTUEq {
   padding-top: 60px;
   padding-bottom: 60px;
